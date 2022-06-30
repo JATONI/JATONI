@@ -13,8 +13,11 @@ I like developmet web.
    ⚡ Fun fact: When i was between 8 and 10 years old i thought that in computers worked a little man.  
    📫 How to reach me: 
 <p align='center'>
-  <a href="https://www.instagram.com/showmethecode256/"><img src=""></a>&nbsp;&nbsp;
-  <a href="http://jatoni.github.io/"><img src=""></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/showmethecode256/"><img src="icons/274786_instagram_social network_photos_icon.png"></a>&nbsp;&nbsp;
+  <a href="http://jatoni.github.io/"><img src="icons/274789_portfolio_dribbble_social network_icon.png"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/juan-antonio-9a36861a8/"><img src="icons/274785_hr_recruitment_social network_linkedin_icon.png"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/JuanAnt85626480"><img src="icons/274779_twitter_social network_icon.png"></a>&nbsp;&nbsp;
+</p>
 </p>
  
 
