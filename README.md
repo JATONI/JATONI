@@ -10,7 +10,7 @@ I like developmet web.
    🤔 I’m looking for help with React.  
    💬 Ask me about Java, python, JavaScript & Git.  
    😄 Pronouns: hi/his.  
-   ⚡ Fun fact: When i was between 8 and 10 years old i thought that in computers worked a little man
+   ⚡ Fun fact: When i was between 8 and 10 years old i thought that in computers worked a little man.  
    📫 How to reach me: 
 <p align='center'>
   <a href="https://www.instagram.com/showmethecode256/"><img src=""></a>&nbsp;&nbsp;
