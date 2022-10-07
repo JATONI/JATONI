@@ -9,7 +9,7 @@ I like developmet web.
    👯 I’m looking to collaborate on Web apps, page web.  
    🤔 I’m looking for help with React.  
    💬 Ask me about Java, python, JavaScript & Git.  
-   😄 Pronouns: hi/his.  
+   😄 Pronouns: he.  
    ⚡ Fun fact: When i was between 8 and 10 years old i thought that in computers worked a little man.  
    📫 How to reach me: 
 <p align='center'>
