@@ -4,7 +4,7 @@ My name is Juan, i'm a web developer in process...
 Previously working as a developer back-end in java EE, i did consume api's and i **implement JWT for segurity of webServices**.
 I like developmet web.
 
-   🔭 I’m currently working on 'Recicladora'.  
+   🔭 I’m currently working on 'IDS Comercial S.A de C.V'.  
    🌱 I’m currently learning React.  
    👯 I’m looking to collaborate on Web apps, page web.  
    🤔 I’m looking for help with React.  
